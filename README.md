@@ -1,2 +1,2 @@
-# Datagram
-Datagram is simpe data writer prototype
+# DataAnalyzer[DEVELOPING]
+Datagram is simpe data writer,eraser,reader
